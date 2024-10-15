@@ -1,0 +1,26 @@
+# Ignorar pastas de build
+bin/
+obj/
+obj/Debug
+
+# Ignorar pacotes NuGet
+packages/
+
+# Ignorar arquivos de configuração da IDE
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de cache
+*.cache
+
+# Ignorar arquivos de backup
+*~
+
+# Ignorar arquivos de sistema
+Thumbs.db
+.DS_Store
